@@ -315,3 +315,4 @@ sleep 3
 __vsc_prompt_cmd_original
 help while
 __vsc_prompt_cmd_original
+./countdown.sh 5
