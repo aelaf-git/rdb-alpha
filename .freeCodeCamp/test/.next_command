@@ -867,3 +867,4 @@ echo ${ARR[@]}
 declare -p
 declre -p ARR
 declare -p ARR
+./fortune.sh
