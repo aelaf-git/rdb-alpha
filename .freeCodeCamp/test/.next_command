@@ -864,3 +864,6 @@ ARR=("a" "b" "c")
 echo ${ARR[1]}
 echo ${ARR@}
 echo ${ARR[@]}
+declare -p
+declre -p ARR
+declare -p ARR
