@@ -11,6 +11,7 @@ GET_FORTUNE() {
   fi
   read QUESTION
 }
+GET_FORTUNE
 until [[ $QUESTION =~ \?$ ]]
 do
   GET_FORTUNE again
