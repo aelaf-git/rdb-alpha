@@ -858,3 +858,4 @@ bash bingo.sh
 ./bingo.sh
 ./bingo.sh
 touch fortune.sh
+chmod +x fortune.sh
