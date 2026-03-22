@@ -18,4 +18,4 @@ do
 done
 N=$(( RANDOM%6 ))
 
-echo ${RESPONSES[$N]}
+echo -e "\n${RESPONSES[$N]}"
