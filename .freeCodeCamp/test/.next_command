@@ -888,3 +888,4 @@ VAR="hello world"
 echo VAR
 echo $VAR
 [[ $VAR == "hello world" ]]
+[[ $VAR =~ \?$ ]]
